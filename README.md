@@ -1,3 +1,8 @@
+As instructed, this folder includes four source (plot[1-4].R) and
+resulting PNG files (plot[1-4].png), as well as this updated README.
+The original text data file is not included as it is too large for
+GitHub, but it is assumed to be in the working directory.
+
 ## Introduction
 
 This assignment uses data from
